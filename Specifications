@@ -2,3 +2,11 @@ Used Roboflow to annotate images one-by-one;
 Used YOLO-V8 to train model
 
 since due to not having a dedicated GPU; trained the model using Google Colab Notebooks
+
+Only trained selected Animals:
+African Lion 
+Bengal Tiger 
+Black Ape
+Capybara 
+Ostrich 
+Sail Fin Lizard.
